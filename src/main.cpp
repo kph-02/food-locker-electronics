@@ -4,8 +4,8 @@
 #include <addons/RTDBHelper.h>
 
 /* Define the WiFi credentials */
-#define WIFI_SSID "jask"
-#define WIFI_PASSWORD "wagongallon783"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 /* Define the RTDB URL */
 #define DATABASE_URL "https://alpha-beta-food-locker-default-rtdb.firebaseio.com" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
